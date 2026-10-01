@@ -1,1 +1,2 @@
 This is trime file 6
+trim file6.1
